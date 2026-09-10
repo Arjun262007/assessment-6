@@ -1,0 +1,9 @@
+com\emergency\dispatch\model\EmergencyRequest.class
+com\emergency\dispatch\service\DispatchService$1.class
+com\emergency\Main.class
+com\emergency\dispatch\model\AmbulanceState.class
+com\emergency\dispatch\service\DispatchService.class
+com\emergency\dispatch\model\Ambulance.class
+com\emergency\dispatch\exception\InvalidRequestException.class
+com\emergency\dispatch\model\AmbulanceType.class
+com\emergency\dispatch\model\EmergencyPriority.class
